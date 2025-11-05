@@ -1,6 +1,5 @@
 # Netflix-Insights
-## **Project Topic:
-Netflix Movies & TV Shows Insight**
+## **Project Topic: Netflix Movies & TV Shows Insight**
 
 The Netflix Movies & TV Shows Insights project analyzes data from the Netflix catalog to uncover patterns, trends, and insights about the platform’s content library.
 The dataset includes key information such as title, type (movie or TV show), release year, country, genre, cast, director, and date added to Netflix.

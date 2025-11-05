@@ -20,7 +20,7 @@ This analysis helps understand Netflix’s global strategy, evolving content foc
 •	https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 **Number of Rows and Columns:**  
-•	Rows: 8807
+•	Rows: 8807  
 •	Columns: 12 (Title, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Genre, Description, Type)
 
 **Aim of Your Project:**  
